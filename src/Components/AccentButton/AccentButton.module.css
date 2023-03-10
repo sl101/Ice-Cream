@@ -1,0 +1,23 @@
+.button {
+	position: relative;
+	padding: 13px 50px;
+	width: 166px;
+	height: 49px;
+	font-weight: 700;
+	background-color: var(--accent-color);
+	color: var(--white-color);
+	outline: none;
+	border: 1px solid transparent;
+	border-radius: 5px;
+	transition: background-color var(--hover-time) ease;
+}
+
+.button:focus {
+	background-color: var(--accent-color);
+}
+
+.button:hover {}
+
+.button:active {
+	top: 1px;
+}

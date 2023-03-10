@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/icecream/static/css/main.32c3906c.css",
+    "main.js": "/icecream/static/js/main.6dc3af51.js",
+    "index.html": "/icecream/index.html",
+    "main.32c3906c.css.map": "/icecream/static/css/main.32c3906c.css.map",
+    "main.6dc3af51.js.map": "/icecream/static/js/main.6dc3af51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32c3906c.css",
+    "static/js/main.6dc3af51.js"
+  ]
+}
