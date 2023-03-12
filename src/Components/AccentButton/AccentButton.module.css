@@ -9,14 +9,17 @@
 	outline: none;
 	border: 1px solid transparent;
 	border-radius: 5px;
-	transition: background-color var(--hover-time) ease;
+	transition: background-color var(--hover-time) ease, color var(--hover-time) ease;
 }
 
 .button:focus {
-	background-color: var(--accent-color);
+	background-color: var(--brand-color);
 }
 
-.button:hover {}
+.button:hover {
+	background-color: var(--accent-color);
+	color: var(--black-color);
+}
 
 .button:active {
 	top: 1px;

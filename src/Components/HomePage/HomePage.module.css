@@ -1,0 +1,43 @@
+.homepage {
+	background-color: var(--light-brand);
+}
+
+.wrapper {
+	padding: 126px 0 65px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.offer {
+	width: 100%;
+}
+
+.subtitle {
+	font-weight: 500;
+	font-size: 14px;
+}
+
+.title {
+	margin-bottom: 35px;
+	font-family: var(--font-fredoka);
+	font-size: 57px;
+	line-height: 70px;
+}
+
+.title span {
+	color: var(--accent-color);
+}
+
+.substring {
+	margin-bottom: 50px;
+	max-width: 523px;
+	font-family: var(--font-hind-madurai);
+	font-size: 18px;
+	line-height: 27px;
+}
+
+.img {
+	height: 660px;
+	object-fit: cover;
+}
