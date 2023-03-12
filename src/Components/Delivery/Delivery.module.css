@@ -1,0 +1,22 @@
+.item {
+	padding: 25px;
+	max-width: 250px;
+	height: 200px;
+	text-align: center;
+}
+
+.img {
+	max-width: 54px;
+	height: 54px;
+	margin-bottom: 24px;
+}
+
+.title {
+	margin-bottom: 10px;
+	font-weight: 600;
+	font-size: 20px;
+}
+
+.description {
+	font-size: 14px;
+}

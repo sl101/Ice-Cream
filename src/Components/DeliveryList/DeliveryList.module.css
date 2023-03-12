@@ -1,0 +1,11 @@
+.delivery {
+	padding: 50px 0;
+}
+
+.list {
+	font-family: var(--font-hind-madurai);
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 40px;
+}

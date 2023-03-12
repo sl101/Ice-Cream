@@ -1,7 +1,6 @@
 import AccentButton from './../AccentButton/AccentButton';
 import s from './HomePage.module.css';
 import icecream from './media/icecream.png';
-// import icecream from './media/preview.png';
 
 const HomePage = () => {
 	return (

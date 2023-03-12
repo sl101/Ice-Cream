@@ -1,21 +1,15 @@
-.homepage {
-	background-color: var(--light-brand);
-	padding: 126px 0 65px;
-}
-
-.wrapper {
+.deal {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 }
 
-.offer {
-	width: 100%;
-}
-
 .subtitle {
-	font-weight: 500;
-	font-size: 14px;
+	max-width: 350px;
+	font-family: var(--font-hind-madurai);
+	font-weight: 600;
+	font-size: 44px;
+	line-height: 48px;
 }
 
 .title {
@@ -32,12 +26,12 @@
 .substring {
 	margin-bottom: 50px;
 	max-width: 523px;
-	font-family: var(--font-hind-madurai);
-	font-size: 18px;
-	line-height: 27px;
+	font-family: var(--font-roboto);
+	font-size: 16px;
+	line-height: 24px;
 }
 
 .img {
-	height: 660px;
+	height: 500px;
 	object-fit: cover;
 }
