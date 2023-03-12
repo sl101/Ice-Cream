@@ -1,0 +1,38 @@
+.nav {}
+
+.header_nav {}
+
+.nav_list {
+	display: flex;
+	gap: 36px;
+}
+
+.footer_nav {
+	grid-area: nav;
+}
+
+.footer_menu {
+	grid-area: menu;
+}
+
+.footer_menu .nav_list,
+.footer_nav .nav_list {
+	flex-direction: column;
+	gap: 10px;
+}
+
+.footer_menu a,
+.footer_nav a {
+	font-size: 12px;
+}
+
+.footer_menu a:focus,
+.footer_nav a:focus {
+	color: var(--brand-color);
+}
+
+.footer_menu a:hover,
+.footer_nav a:hover {
+	border-bottom-color: transparent;
+	color: var(--white-color);
+}

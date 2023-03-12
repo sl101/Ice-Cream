@@ -2,9 +2,12 @@
 
 * {
 	--white-color: #ffffff;
+	--white-007: rgba(255, 255, 255, .7);
 	--black-color: #000000;
 	--black-150: #150101;
+	--black-0a0: #0a0808;
 
+	--brand-color: #f2ceda;
 	--accent-color: #d23166;
 
 	--hover-time: .4s;
@@ -12,6 +15,18 @@
 	--font-roboto: 'Roboto', sans-serif;
 	--font-hind-madurai: 'Hind Madurai', sans-serif;
 	--font-fredoka: 'Fredoka One', cursive;
+}
+
+.sr-only {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0, 0, 0, 0);
+	white-space: nowrap;
+	border: 0;
 }
 
 body {

@@ -1,0 +1,7 @@
+.img_box {
+	grid-area: logo;
+	width: 79px;
+	height: 79px;
+	/* outline: none; */
+	/* transition: all var(--hover-time) ease; */
+}

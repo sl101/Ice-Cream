@@ -1,0 +1,35 @@
+.form {
+	grid-area: form;
+	justify-self: self-end;
+}
+
+.label {
+	font-weight: 500;
+	font-size: 16px;
+	color: var(--white-color);
+}
+
+.label p {
+	position: relative;
+	margin-bottom: 13px;
+	left: 3px;
+}
+
+.input {
+	position: relative;
+	left: 3px;
+	width: 263px;
+	padding: 19px 32px;
+	height: 55px;
+	background-color: transparent;
+	border: 1px solid var(--accent-color);
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	color: var(--white-color);
+	outline: none;
+}
+
+.input::placeholder {
+	font-weight: normal;
+	font-size: 14px;
+}

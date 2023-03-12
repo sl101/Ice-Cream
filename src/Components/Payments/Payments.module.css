@@ -1,0 +1,11 @@
+.list {
+	width: 415px;
+	justify-self: self-end;
+	grid-area: payments;
+	display: flex;
+	gap: 15px;
+}
+
+.image {
+	max-height: 22px;
+}

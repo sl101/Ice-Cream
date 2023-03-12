@@ -1,0 +1,23 @@
+.item {}
+
+.link {
+	padding: 0 2px;
+	position: relative;
+	font-size: 14px;
+	border: 1px solid transparent;
+	outline: none;
+	transition: color var(--hover-time) ease, border-bottom-color var(--hover-time) ease;
+}
+
+.link:focus {
+	color: var(--accent-color);
+}
+
+.link:hover {
+	border-bottom-color: var(--accent-color);
+}
+
+.link:active {
+	top: 1px;
+	color: var(--accent-color);
+}
