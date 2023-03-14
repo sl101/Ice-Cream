@@ -24,7 +24,7 @@ const HomePage = () => {
 						<img
 							className={s.img}
 							src={icecream}
-							alt="picture icecream in glass"
+							alt="picture ice cream in glass"
 						/>
 					</div>
 				</div>

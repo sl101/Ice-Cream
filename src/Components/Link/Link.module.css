@@ -6,7 +6,7 @@
 	font-size: 14px;
 	border: 1px solid transparent;
 	outline: none;
-	transition: color var(--hover-time) ease, border-bottom-color var(--hover-time) ease;
+	transition: color var(--hover-time) ease, border-bottom-color var(--hover-time) ease, opacity var(--hover-time) ease;
 }
 
 .link:focus {

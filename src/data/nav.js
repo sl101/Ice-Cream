@@ -47,3 +47,30 @@ export const footer_nav = [
 		url: '#',
 	},
 ];
+
+export const products_nav = [
+	{
+		title: 'ice cream',
+		url: '#',
+	},
+	{
+		title: 'cayenne chocolate',
+		url: '#',
+	},
+	{
+		title: 'cake batter',
+		url: '#',
+	},
+	{
+		title: 'candy cane',
+		url: '#',
+	},
+	{
+		title: 'platters',
+		url: '#',
+	},
+	{
+		title: 'dessert',
+		url: '#',
+	},
+];

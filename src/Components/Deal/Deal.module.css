@@ -4,6 +4,10 @@
 	align-items: center;
 }
 
+.offer {
+	max-width: 454px;
+}
+
 .subtitle {
 	max-width: 350px;
 	font-family: var(--font-hind-madurai);
@@ -13,10 +17,11 @@
 }
 
 .title {
-	margin-bottom: 35px;
-	font-family: var(--font-fredoka);
-	font-size: 57px;
-	line-height: 70px;
+	margin-bottom: 11px;
+	font-weight: 700;
+	font-family: var(--font-hind-madurai);
+	font-size: 26px;
+	line-height: 36px;
 }
 
 .title span {
@@ -24,14 +29,32 @@
 }
 
 .substring {
-	margin-bottom: 50px;
+	margin-bottom: 30px;
 	max-width: 523px;
 	font-family: var(--font-roboto);
 	font-size: 16px;
 	line-height: 24px;
 }
 
+.price_box {
+	margin-bottom: 10px;
+	display: flex;
+	align-items: end;
+	gap: 5px;
+	font-weight: 500;
+	font-family: var(--font-hind-madurai);
+	font-size: 26px;
+	line-height: 36px;
+
+}
+
+.price {
+	font-size: 20px;
+	line-height: 32px;
+	opacity: .7;
+}
+
 .img {
-	height: 500px;
+	max-width: 580px;
 	object-fit: cover;
 }

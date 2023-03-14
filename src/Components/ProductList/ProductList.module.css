@@ -1,0 +1,16 @@
+.products {
+	padding: 130px 0 150px;
+}
+
+.wrapper {
+	/* text-align: center; */
+}
+
+.title {
+	margin-bottom: 60px;
+	text-align: center;
+	font-family: var(--font-hind-madurai);
+	font-weight: 600;
+	font-size: 44px;
+	line-height: 60px;
+}

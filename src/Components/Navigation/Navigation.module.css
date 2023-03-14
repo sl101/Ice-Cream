@@ -7,6 +7,18 @@
 	gap: 36px;
 }
 
+.products_nav {
+	margin-bottom: 50px;
+}
+
+.products_nav a {
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size: 20px;
+	opacity: .6;
+}
+
+
 .footer_nav {
 	grid-area: nav;
 }
@@ -19,6 +31,10 @@
 .footer_nav .nav_list {
 	flex-direction: column;
 	gap: 10px;
+}
+
+.products_nav .nav_list {
+	justify-content: center;
 }
 
 .footer_menu a,
@@ -35,4 +51,9 @@
 .footer_nav a:hover {
 	border-bottom-color: transparent;
 	color: var(--white-color);
+}
+
+.products_nav a:hover {
+	opacity: 1;
+	color: var(--black-color);
 }
