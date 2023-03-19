@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/Ice-Cream/static/css/main.6bd9d573.css",
-    "main.js": "/Ice-Cream/static/js/main.fedd934e.js",
+    "main.css": "/Ice-Cream/static/css/main.5f6c9227.css",
+    "main.js": "/Ice-Cream/static/js/main.55adcfac.js",
     "static/media/icecream.png": "/Ice-Cream/static/media/icecream.839b520d8cb946c34e78.png",
     "static/media/chocolate.png": "/Ice-Cream/static/media/chocolate.7d207d0057be3a84c129.png",
     "static/media/mango_mint.png": "/Ice-Cream/static/media/mango_mint.3959671c6b25be9b4e1f.png",
     "static/media/oatmea.png": "/Ice-Cream/static/media/oatmea.95e4a9d73e0d64a064b7.png",
+    "static/media/icecream_review.png": "/Ice-Cream/static/media/icecream_review.17b6965f076eec337889.png",
     "static/media/pistachio.png": "/Ice-Cream/static/media/pistachio.3068e5fd62af35108953.png",
+    "static/media/phone_app.png": "/Ice-Cream/static/media/phone_app.66ccb743a55a0dd11e79.png",
     "index.html": "/Ice-Cream/index.html",
-    "main.6bd9d573.css.map": "/Ice-Cream/static/css/main.6bd9d573.css.map",
-    "main.fedd934e.js.map": "/Ice-Cream/static/js/main.fedd934e.js.map"
+    "main.5f6c9227.css.map": "/Ice-Cream/static/css/main.5f6c9227.css.map",
+    "main.55adcfac.js.map": "/Ice-Cream/static/js/main.55adcfac.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bd9d573.css",
-    "static/js/main.fedd934e.js"
+    "static/css/main.5f6c9227.css",
+    "static/js/main.55adcfac.js"
   ]
 }
