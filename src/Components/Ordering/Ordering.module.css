@@ -1,0 +1,46 @@
+.ordering {
+
+	background-color: var(--light-f8e);
+}
+
+.wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 120px;
+}
+
+.wrapper>img {
+	width: 305px;
+	height: 627px;
+	transform: translateY(50px);
+}
+
+.title {
+	font-weight: 500;
+	font-size: 44px;
+	line-height: 26px;
+	margin-bottom: 20px;
+}
+
+.description {
+	max-width: 600px;
+	color: var(--black-007);
+	font-size: 18px;
+	margin-bottom: 30px;
+}
+
+.option_list {
+	display: flex;
+	flex-direction: column;
+	gap: 17px;
+	margin-bottom: 40px;
+}
+
+.apps {
+	transform: translateX(-12px);
+	display: flex;
+	align-items: center;
+	gap: 10px;
+
+}

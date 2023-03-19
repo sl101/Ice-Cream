@@ -1,10 +1,8 @@
 .products {
-	padding: 130px 0 150px;
+	padding: 100px 0 80px;
 }
 
-.wrapper {
-	/* text-align: center; */
-}
+.wrapper {}
 
 .title {
 	margin-bottom: 60px;

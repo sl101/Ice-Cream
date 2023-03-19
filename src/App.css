@@ -3,13 +3,19 @@
 * {
 	--white-color: #ffffff;
 	--white-007: rgba(255, 255, 255, .7);
+	--white-faf: #fafafa;
+
 	--black-color: #000000;
+	--black-007: rgba(0, 0, 0, .7);
 	--black-150: #150101;
 	--black-0a0: #0a0808;
 
 	--light-brand: #f2ceda;
+	--light-f8e: #f8edf0;
+
 	--brand-color: #c55f80;
 	--accent-color: #d23166;
+	--accent-f67: #f6762c;
 
 	--hover-time: .4s;
 

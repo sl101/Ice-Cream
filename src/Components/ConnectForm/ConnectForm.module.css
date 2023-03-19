@@ -1,0 +1,42 @@
+.connect {
+	padding: 100px 0;
+}
+
+.wrapper {
+	text-align: center;
+}
+
+.title {
+	max-width: 520px;
+	font-weight: 500;
+	font-size: 44px;
+	line-height: 52px;
+	margin: 0 auto 28px;
+}
+
+.form {
+	height: 74px;
+}
+
+.input {
+	padding: 30px;
+	width: 503px;
+	height: 100%;
+	border: 1px solid transparent;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	background-color: var(--white-faf);
+	color: var(--black-150);
+	outline: none;
+	transition: all var(--hover-time) ease;
+
+}
+
+.input:focus {
+	background-color: var(--light-brand);
+}
+
+.input:hover {
+	color: var(--accent-color);
+	background-color: var(--white-faf);
+}
